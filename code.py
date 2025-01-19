@@ -1,5 +1,4 @@
 import random
-
 def dice_roll():
     #Generating random numbers between 1-6 after rolling a dice
     return random.randint(1,6)
